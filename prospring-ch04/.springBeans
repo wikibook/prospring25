@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beansProjectDescription>
+	<version>1</version>
+	<pluginVersion><![CDATA[2.2.2.RC]]></pluginVersion>
+	<configSuffixes>
+		<configSuffix><![CDATA[xml]]></configSuffix>
+	</configSuffixes>
+	<enableImports><![CDATA[false]]></enableImports>
+	<configs>
+		<config>src/main/resources/META-INF/spring/acdemo1-context.xml</config>
+		<config>src/main/resources/META-INF/spring/acdemo2-context.xml</config>
+		<config>src/main/resources/META-INF/spring/acdemo3-context.xml</config>
+		<config>src/main/resources/META-INF/spring/acdemo4-context.xml</config>
+		<config>src/main/resources/META-INF/spring/acdemo5-context.xml</config>
+		<config>src/main/resources/META-INF/spring/annotationdemo1-context.xml</config>
+		<config>src/main/resources/META-INF/spring/annotationdemo2-context.xml</config>
+		<config>src/main/resources/META-INF/spring/annotationdemo3-context.xml</config>
+		<config>src/main/resources/META-INF/spring/annotationdemo4-context.xml</config>
+		<config>src/main/resources/META-INF/spring/bfpp-context.xml</config>
+		<config>src/main/resources/META-INF/spring/bfpp2-context.xml</config>
+		<config>src/main/resources/META-INF/spring/bpp-context.xml</config>
+		<config>src/main/resources/META-INF/spring/bpp2-context.xml</config>
+		<config>src/main/resources/META-INF/spring/eventsdemo1-context.xml</config>
+		<config>src/main/resources/META-INF/spring/factorydemo-context.xml</config>
+		<config>src/main/resources/META-INF/spring/interactiondemo-context.xml</config>
+		<config>src/main/resources/META-INF/spring/interactiondemo2-context.xml</config>
+		<config>src/main/resources/META-INF/spring/lifecycledemo-context.xml</config>
+		<config>src/main/resources/META-INF/spring/lifecycledemo2-context.xml</config>
+		<config>src/main/resources/META-INF/spring/lifecycledemo3-context.xml</config>
+		<config>src/main/resources/META-INF/spring/lifecycledemo4-context.xml</config>
+		<config>src/main/resources/META-INF/spring/lifecycledemo5-context.xml</config>
+		<config>src/main/resources/META-INF/spring/midemo-context.xml</config>
+		<config>src/main/resources/META-INF/spring/midemo2-context.xml</config>
+		<config>src/main/resources/META-INF/spring/midemo3-context.xml</config>
+		<config>src/main/resources/META-INF/spring/midemo4-context.xml</config>
+		<config>src/main/resources/META-INF/spring/pedemo-context.xml</config>
+		<config>src/main/resources/META-INF/spring/pedemo2-context.xml</config>
+		<config>src/main/resources/META-INF/spring/resourcesdemo1-context.xml</config>
+	</configs>
+	<configSets>
+	</configSets>
+</beansProjectDescription>

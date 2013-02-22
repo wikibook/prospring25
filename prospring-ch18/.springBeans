@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beansProjectDescription>
+	<version>1</version>
+	<pluginVersion><![CDATA[2.2.2.RC]]></pluginVersion>
+	<configSuffixes>
+		<configSuffix><![CDATA[xml]]></configSuffix>
+	</configSuffixes>
+	<enableImports><![CDATA[false]]></enableImports>
+	<configs>
+		<config>webapp/WEB-INF/ch18-servlet.xml</config>
+		<config>webapp/WEB-INF/simple-servlet.xml</config>
+		<config>webapp/WEB-INF/config/web-application-config.xml</config>
+		<config>webapp/WEB-INF/config/webflow-config.xml</config>
+		<config>webapp/WEB-INF/config/webmvc-config.xml</config>
+	</configs>
+	<configSets>
+	</configSets>
+</beansProjectDescription>

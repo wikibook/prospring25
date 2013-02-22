@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beansProjectDescription>
+	<version>1</version>
+	<pluginVersion><![CDATA[2.2.2.RC]]></pluginVersion>
+	<configSuffixes>
+		<configSuffix><![CDATA[xml]]></configSuffix>
+	</configSuffixes>
+	<enableImports><![CDATA[false]]></enableImports>
+	<configs>
+		<config>src/main/java/com/apress/prospring2/ch14/beans/beans-context.xml</config>
+		<config>src/main/java/com/apress/prospring2/ch14/bsh/beans-context.xml</config>
+		<config>src/main/java/com/apress/prospring2/ch14/groovy/beans-context.xml</config>
+		<config>src/main/java/com/apress/prospring2/ch14/jruby/beans-context.xml</config>
+		<config>src/main/java/com/apress/prospring2/ch14/dsl/dsl-context.xml</config>
+		<config>src/main/java/com/apress/prospring2/ch14/dynamic/dynamic-beans-context.xml</config>
+	</configs>
+	<configSets>
+	</configSets>
+</beansProjectDescription>

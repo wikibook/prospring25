@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beansProjectDescription>
+	<version>1</version>
+	<pluginVersion><![CDATA[2.2.2.RC]]></pluginVersion>
+	<configSuffixes>
+		<configSuffix><![CDATA[xml]]></configSuffix>
+	</configSuffixes>
+	<enableImports><![CDATA[false]]></enableImports>
+	<configs>
+		<config>src/main/java/com/apress/prospring2/ch13/mime/alternativeFormatMessageSender.xml</config>
+		<config>src/main/java/com/apress/prospring2/ch13/mime/attachmentMessageSender.xml</config>
+		<config>src/main/java/com/apress/prospring2/ch13/birthday/birthdayReminder.xml</config>
+		<config>src/main/java/com/apress/prospring2/ch13/mime/complexMessageSender.xml</config>
+		<config>src/main/java/com/apress/prospring2/ch13/dataaccess/dataaccess-context.xml</config>
+		<config>src/main/java/com/apress/prospring2/ch13/dataaccess/datasource-context.xml</config>
+		<config>src/main/java/com/apress/prospring2/ch13/service/email-context.xml</config>
+		<config>src/main/java/com/apress/prospring2/ch13/mime/inlineImageMessageSender.xml</config>
+		<config>src/main/java/com/apress/prospring2/ch13/mime/javaMailSender.xml</config>
+		<config>src/main/java/com/apress/prospring2/ch13/mime/simpleHtmlMessageSender.xml</config>
+	</configs>
+	<configSets>
+	</configSets>
+</beansProjectDescription>
